@@ -1,5 +1,5 @@
 ---
-title: "Project 1"
+title: "1"
 excerpt: "Artificial intelligence and task-augmentation at work"
 collection: research
 ---
