@@ -9,24 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+Please view or download my [academic CV here](http://pearlynhsng.github.io/files/academiccv.pdf). For a truncated "industry-friendly" version, continue scrolling!
+
 Education
 ======
 * B.S. in Psychology, University of Toronto, 2016
 * M.S. in Management, Toronto Metropoliltan University, 2022
 * Ph.D in Industrial Organizational Psychology, 2026 (expected)
 
-Work experience
+Industry/Applied work experience
 ======
 * 2017-2020: Research and Knowledge Exchange Lead	
   * Canadian Mental Health Association
-  * Duties included: Developed training workshops and online learning modules
-  
+      + Developed training workshops and online learning modules for mental health literacy 
+      + Coordinated 5 regional communities of practice across Ontario with 200+ members
+
 Skills
 ======
 * Advanced statistical analyses
   * Multiple regressions
   * Multi-level modeling
   * Factor analysis
+  * ...and more! 
 * Languages
   * English
   * Malay
