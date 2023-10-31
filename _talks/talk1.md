@@ -2,7 +2,7 @@
 title: "How Follower Regulatory Focus Impacts Reactions to Leader Self-serving Behavior"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-08-talk-1
+permalink: /talks/talk1
 venue: "Academy of Management Conference"
 date: 2023-08-08
 location: "Boston, MA"

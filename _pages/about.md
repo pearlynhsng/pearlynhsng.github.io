@@ -20,4 +20,4 @@ Dr. Douglas Brown is my PhD supervisor; You can find out more about our lab grou
 
 ...and if you made it this far
 ======
-...then congratulations! I reward you by linking you to this [PhD simulator](https://research.wmz.ninja/projects/phd/index.html). Disclaimer: I did not make this game. I just love the concept and think it's funny! :relaxed:
+...then congratulations! I reward you by linking you to this [PhD simulator](https://research.wmz.ninja/projects/phd/index.html). Disclaimer: I did not make this game. I just love the concept and think it's funny! 
