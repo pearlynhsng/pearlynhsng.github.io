@@ -1,6 +1,6 @@
 ---
 title: "1"
-excerpt: "Artificial intelligence and task-augmentation at work"
+excerpt: "Topic: Artificial intelligence and task-augmentation at work"
 collection: research
 ---
 

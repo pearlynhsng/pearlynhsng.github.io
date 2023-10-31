@@ -1,6 +1,6 @@
 ---
 title: "2"
-excerpt: "Employee voice and leadership"
+excerpt: "Topic: Employee voice and leadership"
 collection: research
 ---
 
