@@ -1,5 +1,5 @@
 ---
-title: "1"
+title: "Research Area 1"
 excerpt: "Topic: Artificial intelligence and task-augmentation at work"
 collection: research
 ---
